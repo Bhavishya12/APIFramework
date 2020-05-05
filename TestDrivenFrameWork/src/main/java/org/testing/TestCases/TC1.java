@@ -26,7 +26,7 @@ public class TC1 {
 
 	JSONObject data = new JSONObject();
 	data.put("id", random_number);
-	data.put("firstname", "Bhavishya");
+	data.put("firstname", "Bhavishyaa");
 	data.put("lastname", "Kaushik");
 	data.put("age", "28");
 	
