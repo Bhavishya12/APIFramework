@@ -1,0 +1,11 @@
+{
+  "Designation": "Associate",
+  "firstname": "Bhavishya",
+  "Address": {
+    "Houseno": "2251",
+    "wardno": "15",
+    "City": "Faridabad"
+  },
+  "id": "{{id}}",
+  "lastname": "Kaushik"
+}
